@@ -1,2 +1,6 @@
 A B C
 III year
+tuesday
+25.04.23
+OSS lab
+
